@@ -1,7 +1,7 @@
-package com.exercise.WeatherAlertScheduler.service;
+package com.exercise.weatheralertscheduler.service;
 
-import com.exercise.WeatherAlertScheduler.model.WeatherAlert;
-import com.exercise.WeatherAlertScheduler.repository.WeatherAlertRepository;
+import com.exercise.weatheralertscheduler.model.WeatherAlert;
+import com.exercise.weatheralertscheduler.repository.WeatherAlertRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;

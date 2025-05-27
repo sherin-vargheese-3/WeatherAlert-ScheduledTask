@@ -1,7 +1,7 @@
-package com.exercise.WeatherAlertScheduler.controller;
+package com.exercise.weatheralertscheduler.controller;
 
-import com.exercise.WeatherAlertScheduler.dtos.WeatherAlertDTO;
-import com.exercise.WeatherAlertScheduler.service.WeatherAlertService;
+import com.exercise.weatheralertscheduler.dtos.WeatherAlertDTO;
+import com.exercise.weatheralertscheduler.service.WeatherAlertService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

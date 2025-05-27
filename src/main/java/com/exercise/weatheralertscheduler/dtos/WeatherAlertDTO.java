@@ -1,4 +1,4 @@
-package com.exercise.WeatherAlertScheduler.dtos;
+package com.exercise.weatheralertscheduler.dtos;
 
 import lombok.Builder;
 import lombok.Data;

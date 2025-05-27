@@ -1,8 +1,8 @@
-package com.exercise.WeatherAlertScheduler.service;
+package com.exercise.weatheralertscheduler.service;
 
-import com.exercise.WeatherAlertScheduler.dtos.WeatherAlertDTO;
-import com.exercise.WeatherAlertScheduler.model.WeatherAlert;
-import com.exercise.WeatherAlertScheduler.repository.WeatherAlertRepository;
+import com.exercise.weatheralertscheduler.dtos.WeatherAlertDTO;
+import com.exercise.weatheralertscheduler.model.WeatherAlert;
+import com.exercise.weatheralertscheduler.repository.WeatherAlertRepository;
 import org.springframework.stereotype.Service;
 import java.time.LocalDateTime;
 import java.util.ArrayList;

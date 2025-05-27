@@ -1,6 +1,6 @@
-package com.exercise.WeatherAlertScheduler.repository;
+package com.exercise.weatheralertscheduler.repository;
 
-import com.exercise.WeatherAlertScheduler.model.WeatherAlert;
+import com.exercise.weatheralertscheduler.model.WeatherAlert;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package com.exercise.WeatherAlertScheduler;
+package com.exercise.weatheralertscheduler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

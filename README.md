@@ -4,4 +4,4 @@
 Implement a Spring Boot application with scheduled tasks to simulate weather alert.
 
 ## Project structure
-*   **[com.exercise.WeatherAlertScheduler](src/main/java/com/exercise/WeatherAlertScheduler)**: The main application package.
+*   **[com.exercise.weatheralertscheduler](src/main/java/com/exercise/weatheralertscheduler)**: The main application package.

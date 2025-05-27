@@ -1,4 +1,4 @@
-package com.exercise.WeatherAlertScheduler.model;
+package com.exercise.weatheralertscheduler.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

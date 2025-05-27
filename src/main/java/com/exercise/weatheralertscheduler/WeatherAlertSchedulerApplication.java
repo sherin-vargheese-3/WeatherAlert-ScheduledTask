@@ -1,4 +1,4 @@
-package com.exercise.WeatherAlertScheduler;
+package com.exercise.weatheralertscheduler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
